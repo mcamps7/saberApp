@@ -16,6 +16,7 @@ public class DAM_M13_SaberApp_Camps_C {
      */
     public static void main(String[] args) {
         System.out.println("Hola món");
+        //segon intent
     }
     
 }
